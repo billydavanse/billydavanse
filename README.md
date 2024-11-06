@@ -4,8 +4,12 @@
   </a>
 </p>
 
- [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/billydavanse/)
- 
+<p></p>
+<div align="right">
+ <a href:"https://www.linkedin.com/in/billydavanse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</div>
+                                                    
+<p></p>
 <h2 align="left">About me</h2>
 
 ###
