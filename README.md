@@ -6,13 +6,11 @@
 
 <p></p>
 <div align="right">
- <a href:"https://www.linkedin.com/in/billydavanse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:billydavanse.stays826@passinbox.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/billydavanse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:billydavanse.stays826@passinbox.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
                                                   
 <h2 align="left">About me</h2>
-
-###
 
 <p align="left">
 Professional with 12 years of experience in long-term SAP projects and AMS (Application Management Services) for clients across various industry sectors. Over the years, I have developed expertise in leading SAP consulting teams, coordinating projects, translating business requirements into technical solutions, and developing custom ABAP applications that enable SAP customizations and extensions tailored to each client’s unique needs. Certified in SAP SD - Sales and Distribution, I possess a strong knowledge of SAP-related integrations and non-SAP systems. I am committed to continuous improvement of technical skills and staying updated with SAP SD trends. My goal is to leverage my SAP SD expertise to deliver efficient, best-practice solutions that add value to both the client and the organization.
@@ -33,4 +31,4 @@ Skills:
 •	Debugging for technical analysis of standard and custom programs;<br>
 •	ABAP technical knowledge for report development, user-exits, smartforms, enhancements, functions (FM), OO classes, among others.</p>
 
-###
+ 
