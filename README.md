@@ -7,8 +7,9 @@
 <p></p>
 <div align="right">
  <a href:"https://www.linkedin.com/in/billydavanse"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:billydavanse.stays826@passinbox.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </div>
-                                                    
+                                                  
 <h2 align="left">About me</h2>
 
 ###
